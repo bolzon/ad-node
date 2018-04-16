@@ -1,0 +1,6 @@
+{
+  "user": "user",
+  "pwd": "pwd",
+  "host": "ldap://example",
+  "dc": "dc=local"
+}
